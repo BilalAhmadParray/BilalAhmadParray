@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BilalAhmadParray
-- 👀 I’m interested in Developing Websites
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Developing Websites and building new projects.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a website building.
-- 📫 Reach me at instagram at @bilalparray07.
+- 📫 Reach me at parraybilal34@gmail.com
 
 <!---
 BilalAhmadParray/BilalAhmadParray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
